@@ -1,10 +1,5 @@
 #navbar{
-    position:fixed;
-    left:0;
-    right:0;
-    top:0;
-    float:top;
-    background-color:rgba(0,0,0,.5);
+    background-color:#03071e;
 }
 #nav-logo-divider{
     width:4px;

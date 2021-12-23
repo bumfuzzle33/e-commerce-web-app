@@ -1,0 +1,10 @@
+#main_slider_container{
+    display:flex;
+    justify-content: center;
+    width:100%;
+}
+#caro_container{
+    width:600px;
+
+
+}

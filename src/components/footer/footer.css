@@ -1,0 +1,40 @@
+footer{
+    color:white;
+    background: rgb(2,0,36);
+background: linear-gradient(110deg, rgba(2,0,36,1) 0%, rgba(121,9,48,1) 35%, rgba(0,212,255,1) 100%);
+}
+#footer_parent{
+    margin:10px;
+}
+#footer_parent h1{
+    font-size:1.2rem;
+}
+#footer_parent p{
+    font-size:.85rem;
+}
+#footer_footer{
+    height:40px;
+    background-color:#03071e;
+    display:flex;
+    align-items:center;
+}
+#footer_footer a{
+    color:white;
+    vertical-align: center;
+    margin:0 10px;
+    font-size:13px;
+}
+
+#footer_footer h6{
+    vertical-align: center;
+    color:white;
+    flex-grow:1;
+    margin-left:10px;
+    font-size:13px;
+}
+#socials a{
+    color:rgb(217, 226, 243);
+}
+#socials a:hover{
+    text-decoration: underline;
+}

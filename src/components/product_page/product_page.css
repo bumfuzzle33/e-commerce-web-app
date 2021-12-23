@@ -1,0 +1,17 @@
+#product_page_container2{
+    display:flex;
+    justify-content: center;
+    margin-top:50px;
+}
+#product_page_container2 img{
+    min-width:600px;
+}
+#product_all_container{
+    min-height:600px;
+}
+#product_info_container{
+    margin-top:50px;
+
+    display:flex;
+    justify-content: center;
+}
