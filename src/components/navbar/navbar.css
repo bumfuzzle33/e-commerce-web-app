@@ -6,27 +6,15 @@
     float:top;
     background-color:rgba(0,0,0,.5);
 }
-#nav-start-end-divider{
+#nav-logo-divider{
     width:4px;
     background-color: white;
     margin:6px 0;
 }
-.is-firy-orange{
-    background-color: #fb8500;
-    border:none;
-    color:white;
+.navmenu_glow:hover{
+    border-bottom:solid red 2px;
 }
-.is-firy-red{
-    background-color:#d62828;
-    border:none;
-    color:white;
+#navbar_logo{
+    margin:0 20px 0 15px;
 }
 
-@media only screen and (max-width:1200px){
-    .vanish_this{
-        display:none;
-    }
-    .navbar-menu{
-        background-color:green;
-    }
-}
