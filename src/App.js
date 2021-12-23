@@ -1,10 +1,18 @@
 import './App.css';
+//importing bulma framework css file
+import './css framework(s)/bulma.css'
+//side note: most of the file names will tell in itself what i'm trying to import!
+import Navbar from './components/navbar/navbar'
+
 
 function App() {
   return (
-    <div className="App">
-      <h1>hello there</h1>
+    <div id="App_container">
+      <div id="display_area">
+        <Navbar/>
+      </div>
     </div>
+    
   );
 }
 

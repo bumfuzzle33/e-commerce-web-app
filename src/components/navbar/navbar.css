@@ -1,0 +1,32 @@
+#navbar{
+    position:fixed;
+    left:0;
+    right:0;
+    top:0;
+    float:top;
+    background-color:rgba(0,0,0,.5);
+}
+#nav-start-end-divider{
+    width:4px;
+    background-color: white;
+    margin:6px 0;
+}
+.is-firy-orange{
+    background-color: #fb8500;
+    border:none;
+    color:white;
+}
+.is-firy-red{
+    background-color:#d62828;
+    border:none;
+    color:white;
+}
+
+@media only screen and (max-width:1200px){
+    .vanish_this{
+        display:none;
+    }
+    .navbar-menu{
+        background-color:green;
+    }
+}
